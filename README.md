@@ -1,16 +1,1 @@
-# gallery_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![gallery-app](https://socialify.git.ci/oguzhan18/gallery-app/image?description=1&descriptionEditable=Mobile%20local%20Gallery%20App&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
